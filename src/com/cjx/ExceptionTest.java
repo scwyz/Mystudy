@@ -8,23 +8,20 @@ public class ExceptionTest {
         int a = -100;
         try {
             exceptionTest1(a);
-        }catch (NumberFormatException e){
+        } catch (NumberFormatException e) {
             System.out.println(e.getMessage());
         }
-
-
     }
 
-//    public static void exceptionTest1() throws NumberFormatException {
+    //    public static void exceptionTest1() throws NumberFormatException {
 //        String s = "abv";
 //        Integer integer = Integer.parseInt(s);
 //    }
-    public static void exceptionTest1(int a) throws NumberFormatException{
-    if(a>=0){
-        System.out.println("aa");
-    }else{
-        throw new NumberFormatException("数字异常");
-    }
-
+    public static void exceptionTest1(int a) throws NumberFormatException {
+        if (a >= 0) {
+            System.out.println("aa");
+        } else {
+            throw new NumberFormatException("数字异常");
+        }
     }
 }
