@@ -3,8 +3,6 @@ package com.cjx;
 public class ExceptionTest {
     public static void main(String[] args) {
         int[] b = new int[10];
-
-
         int a = -100;
         try {
             exceptionTest1(a);
