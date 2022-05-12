@@ -1,4 +1,4 @@
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import java.util.Scanner;
 
 public class MyTestTest {
@@ -12,4 +12,5 @@ public class MyTestTest {
         Scanner sr = new Scanner(System.in);
         System.out.println("楼的话在此");
     }
+
 }
