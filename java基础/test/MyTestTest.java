@@ -1,12 +1,10 @@
-import org.junit.jupiter.api.Test;
+package test;
+
+import org.junit.Test;
 
 import java.util.Scanner;
 
 public class MyTestTest {
-
-
-    public void setUp() throws Exception {
-    }
 
     @Test
     public void myTest() {

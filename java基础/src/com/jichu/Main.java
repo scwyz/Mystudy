@@ -1,4 +1,4 @@
-package com.cjx;
+package com.jichu;
 
 public class Main {
     String name;

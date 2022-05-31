@@ -1,4 +1,4 @@
-package com.cjx;
+package com.jichu.多线程;
 
 public class WindowTest {
     public static void main(String[] args) {

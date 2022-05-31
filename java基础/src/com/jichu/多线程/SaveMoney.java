@@ -1,4 +1,4 @@
-package com.cjx;
+package com.jichu.多线程;
 
 import java.util.concurrent.locks.ReentrantLock;
 

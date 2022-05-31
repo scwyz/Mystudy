@@ -1,4 +1,4 @@
-package com.cjx;
+package com.jichu;
 
 public class MyTest {
     public static void main(String args[]){

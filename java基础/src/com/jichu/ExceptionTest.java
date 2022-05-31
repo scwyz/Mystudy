@@ -1,4 +1,4 @@
-package com.cjx;
+package com.jichu;
 
 public class ExceptionTest {
     public static void main(String[] args) {
